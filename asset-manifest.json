@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/supercars_landing_page/static/css/main.6341fa3f.css",
+    "main.js": "/supercars_landing_page/static/js/main.c4658e68.js",
+    "static/media/option_car.jpg": "/supercars_landing_page/static/media/option_car.25570ed629952c6f4871.jpg",
+    "static/media/speed_car.jpg": "/supercars_landing_page/static/media/speed_car.d7b03fe8f8b6173e638c.jpg",
+    "static/media/handle_car.jpg": "/supercars_landing_page/static/media/handle_car.038a59e9a73cf5503874.jpg",
+    "static/media/contact_car.jpg": "/supercars_landing_page/static/media/contact_car.cb78ffd0caf577cb84b7.jpg",
+    "static/media/power_car.jpg": "/supercars_landing_page/static/media/power_car.e5329de98126bf126412.jpg",
+    "index.html": "/supercars_landing_page/index.html",
+    "main.6341fa3f.css.map": "/supercars_landing_page/static/css/main.6341fa3f.css.map",
+    "main.c4658e68.js.map": "/supercars_landing_page/static/js/main.c4658e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6341fa3f.css",
+    "static/js/main.c4658e68.js"
+  ]
+}
