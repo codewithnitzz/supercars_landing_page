@@ -1,0 +1,63 @@
+.mclaren {
+    width: 100%;
+    height: 100vh;
+    background: url('../../assets/option_car.jpg') no-repeat center center/cover;
+}
+
+.mclaren .container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mclaren .top {
+    margin-top: 7rem;
+    color: #f6f6f6;
+}
+.mclaren .bottom {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 4rem;
+}
+
+.mclaren form {
+    max-width: 600px;
+    width: 100%;
+}
+
+.mclaren form div {
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+}
+
+.mclaren form label {
+    margin: 1rem 0 .2rem .7rem;
+    color: #eee;
+}
+
+
+.mclaren form input, textarea {
+    margin: .5rem;
+    padding: .7rem 1.5rem;
+    background: rgba(255, 255, 255, .3);
+    border: none;
+    border-radius: 25px;
+    color: #f6f6f6;
+    font-size: 1rem;
+    outline: none;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.mclaren form input:hover, textarea:hover {
+    box-shadow: 0 0 4px 0;
+}
+
+.mclaren form input::placeholder, textarea::placeholder {
+    color: #333;
+}
